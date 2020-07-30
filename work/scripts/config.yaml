@@ -1,0 +1,9 @@
+dates_service_access_token: '483b36108a006cd256b647ed9232815083a71f20'
+
+db:
+  name: 'notes'
+
+
+paths:
+  schemas: '/app/note_schema.sql'
+  default_holidays: '/app/holidays.json'
